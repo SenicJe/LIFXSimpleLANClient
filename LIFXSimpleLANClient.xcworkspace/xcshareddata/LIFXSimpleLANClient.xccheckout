@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FBEB2B13-45BD-4BB7-AF75-3546B1B73B90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LIFXSimpleLANClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05D4EF3BE4B823D931EDD0A980B2B850112DBF8D</key>
+		<string>github.com:SenicJe/LIFXSimpleLANClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LIFXSimpleLANClient.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05D4EF3BE4B823D931EDD0A980B2B850112DBF8D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SenicJe/LIFXSimpleLANClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05D4EF3BE4B823D931EDD0A980B2B850112DBF8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05D4EF3BE4B823D931EDD0A980B2B850112DBF8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LIFXSimpleLANClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
